@@ -1,4 +1,4 @@
-# 💫 Sobre:
+# 🗨️ Sobre:
 Estudante de Ciência da Computação | Desenvolvedor Back-End em<br>Formação<br><br>Tenho focado meus estudos e projetos práticos no desenvolvimento de sistemas<br>robustos e escaláveis, com experiência em tecnologias como Node.js,<br>Java e SQL.<br><br>Busco aplicar meus conhecimentos em lógica de programação e<br>arquitetura de dados para resolver problemas complexos no lado do<br>servidor, visando sempre a eficiência e a segurança das aplicações.
 
 
